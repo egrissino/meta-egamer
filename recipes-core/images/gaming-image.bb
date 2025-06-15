@@ -3,8 +3,6 @@ inherit core-image
 IMAGE_INSTALL = "\
   weston \
   mesa \
-  vulkan-loader \
-  vulkan-validation-layers \
   networkmanager \
   openssh \
 "
