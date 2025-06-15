@@ -5,7 +5,6 @@ IMAGE_INSTALL = "\
   mesa \
   vulkan-loader \
   vulkan-validation-layers \
-  drm-intel \
   nvidia-driver-native \
   steam launcher \
   retroarch \
