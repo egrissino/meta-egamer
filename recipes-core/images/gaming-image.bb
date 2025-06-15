@@ -5,8 +5,6 @@ IMAGE_INSTALL = "\
   mesa \
   vulkan-loader \
   vulkan-validation-layers \
-  steam launcher \
-  retroarch \
   networkmanager \
   openssh \
 "
