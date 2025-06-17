@@ -1,4 +1,6 @@
-FILESEXTRAPATHS_prepend := "${THISDIR}/files:"
+SUMMARY = "Debian Bookworm archive key"
+LICENSE = "CLOSED"
+
 SRC_URI += " file://sources.list "
 
 do_install_append() {
