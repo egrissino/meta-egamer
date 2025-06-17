@@ -1,0 +1,7 @@
+# Debian Bookworm main (binary + source)
+deb http://deb.debian.org/debian bookworm main contrib non-free
+deb-src http://deb.debian.org/debian bookworm main contrib non-free
+
+# Debian Bookworm updates
+deb http://deb.debian.org/debian-security bookworm-security main contrib non-free
+deb-src http://deb.debian.org/debian-security bookworm-security main contrib non-free
