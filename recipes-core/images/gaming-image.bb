@@ -5,5 +5,12 @@ IMAGE_INSTALL = "\
   mesa \
   networkmanager \
   openssh \
+  iproute2 \
+  net-tools \
+  iputils \
+  ethtool \
+  dhclient \
+  dnsutils \
+  network-manager \
 "
 IMAGE_FSTYPES = "tar.bz2 wic"
