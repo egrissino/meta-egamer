@@ -1,6 +1,7 @@
 SUMMARY = "Debian Bookworm archive key"
 LICENSE = "CLOSED"
 
+FILESEXTRAPATHS:prepend := "${THISDIR}/files:"
 inherit allarch
 
 do_install() {
