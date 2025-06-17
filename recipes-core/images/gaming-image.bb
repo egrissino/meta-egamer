@@ -9,5 +9,8 @@ IMAGE_INSTALL = "\
   net-tools \
   iputils \
   ethtool \
+  htop \
+  nano \
+  systemd \
 "
 IMAGE_FSTYPES = "tar.bz2 wic"
