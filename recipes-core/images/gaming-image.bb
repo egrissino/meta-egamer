@@ -12,5 +12,7 @@ IMAGE_INSTALL = "\
   htop \
   nano \
   systemd \
+  kernel-module-igc \
+  linux-firmware \
 "
 IMAGE_FSTYPES = "tar.bz2 wic"
