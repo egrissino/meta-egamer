@@ -9,7 +9,5 @@ IMAGE_INSTALL = "\
   net-tools \
   iputils \
   ethtool \
-  dnsutils \
-  network-manager \
 "
 IMAGE_FSTYPES = "tar.bz2 wic"
