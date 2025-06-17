@@ -14,5 +14,9 @@ IMAGE_INSTALL = "\
   systemd \
   kernel-module-igc \
   linux-firmware \
+  gnupg \
+  wget \
+  ca-certificates \
 "
+
 IMAGE_FSTYPES = "tar.bz2 wic"
