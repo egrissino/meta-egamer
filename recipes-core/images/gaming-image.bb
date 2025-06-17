@@ -9,7 +9,6 @@ IMAGE_INSTALL = "\
   net-tools \
   iputils \
   ethtool \
-  dhclient \
   dnsutils \
   network-manager \
 "
