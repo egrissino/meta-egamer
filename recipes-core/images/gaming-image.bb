@@ -18,7 +18,6 @@ IMAGE_INSTALL = "\
   wget \
   ca-certificates \
   tar \
-  bunzip2 \
 "
 
 IMAGE_FSTYPES = "tar.bz2 wic"
