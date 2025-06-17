@@ -3,7 +3,7 @@ LICENSE = "CLOSED"
 
 SRC_URI += " file://sources.list "
 
-do_install_append() {
+do_install() {
     install -Dm0644 ${WORKDIR}/sources.list \
         ${D}${sysconfdir}/apt/sources.list
 }
